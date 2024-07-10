@@ -1,5 +1,5 @@
 {
-     "name": "countdown_timer",
+     "name": "mhb-countdown_timer",
      "version": "1.0.0",
      "main": "index.js",
      "type": "module",
